@@ -1,6 +1,6 @@
 # Real-Time Vehicle Detection with YOLOv5 & OpenCV
 
-Bu proje, OpenCV ve YOLOv5 kullanarak gerçek zamanlı araç tespiti yapmaktadır. Kamera üzerinden görüntü alınır, tespit edilen araçlar üzerinde sınıf ve güven skorları gösterilir ve video kaydı yapılabilir.
+Bu proje, OpenCV ve YOLOv5 kullanarak gerçek zamanlı araç tespiti yapmaktadır. Kamera üzerinden görüntü alınır, tespit edilen araçlar işaretlenir ve güven skorları gösterilir; ayrıca video kaydı yapılabilir.
 
 ## Dosyalar
 - `main.py` : Canlı kamera görüntüsü ile nesne tespiti ve video kaydı.
