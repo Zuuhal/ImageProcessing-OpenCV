@@ -4,8 +4,7 @@ Bu proje, OpenCV ve YOLOv5 kullanarak gerçek zamanlı araç tespiti yapmaktadı
 
 ## Dosyalar
 - `main.py` : Canlı kamera görüntüsü ile nesne tespiti ve video kaydı.
-- `train_ex.py` : Önceden eğitilmiş YOLOv5 modeli ile model training.
-- `train/` : Model eğitimi ve dataset kullanımı için örnek kodlar.
+- `train_ex.py` : YOLOv5 ile model training.
 
 ## Kullanılan Teknolojiler
 - Python 3.8
